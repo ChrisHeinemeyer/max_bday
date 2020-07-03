@@ -1,1 +1,1 @@
-hello <end>
+<data> hello <\data>
